@@ -9,22 +9,22 @@ Dalam pertemuan ini kita akan mempelajari PHP Dasar dengan beberapa program code
 
 ## 1). Instal XAMPP
 ![install](img/1.png)
-Install XAMPP kemudian ekstrak file dan sesuaikan lokasi penyimpanannya.
+<br>Install XAMPP kemudian ekstrak file dan sesuaikan lokasi penyimpanannya.</br>
 
 ## 2). Menjalankan XAMPP
 ![start](img/2.png)
-Menjalankan XAMPP dengan cara klik tombol Start pada server Apache seperti di gambar.
+<br>Menjalankan XAMPP dengan cara klik tombol Start pada server Apache seperti di gambar.</br>
 
 ## 3). Memulai PHP 
 ![php](img/3.png)
-Buat folder lab7_php_dasar pada root directory web server (c:xampp/htdocs)
+Buat folder lab7_php_dasar pada root directory web server (c:xampp/htdocs)<br>
 
-Kemudian akses directory pada web server dengan mengakses URL : http://localhost/Lab7Web/lab7_php_dasar/
+<br>Kemudian akses directory pada web server dengan mengakses URL : http://localhost/Lab7Web/lab2_php_dasar/</br>
 ![hasil](img/4.png)
 
 ## 4). PHP Dasar
 ![dasar](img/5.png) 
-Berikut hasil run PHP Dasar
+Berikut hasil run PHP Dasar<br>
 ### Contoh Coding
 ```php
 <!DOCTYPE html>
@@ -44,7 +44,7 @@ Berikut hasil run PHP Dasar
 
 ## 5). Variabel PHP
 ![variabel](img/6.png)
-Berikut hasil run variabel pada program di PHP
+<br>Berikut hasil run variabel pada program di PHP</br>
 
 ### Contoh Coding
 ```php
@@ -60,7 +60,7 @@ Berikut hasil run variabel pada program di PHP
 
 ## 6). Predefine $_GET
 ![predefine](img/7.png)
-Buat file baru dalam directory lab7_php_dasar dengan nama filenya adalah latihan2.php dan untuk mengaksesnya menggunakan URL : http://localhost/Lab7Web/lab7_php_dasar/latihan2.php?nama=%20Bisma
+<br>Buat file baru dalam directory lab7_php_dasar dengan nama filenya adalah latihan2.php dan untuk mengaksesnya menggunakan URL : http://localhost/Lab7Web/lab7_php_dasar/latihan2.php?nama=%20Bisma</br>
 
 ### Contoh Coding
 ```php
@@ -84,9 +84,8 @@ Buat file baru dalam directory lab7_php_dasar dengan nama filenya adalah latihan
 
 ## 7). Membuat Form Input
 ![form](img/8.png)
-Buat File baru dengan nama latihan3.php dalam directory folder lab7_php_dasar 
-
-Berikut adalah hasil atau tampilan dalam membuat form dalam php dengan variable $_POST 
+<br>Buat File baru dengan nama latihan3.php dalam directory folder lab7_php_dasar 
+Berikut adalah hasil atau tampilan dalam membuat form dalam php dengan variable $_POST</br> 
 
 ### Contoh Coding
 ```php
@@ -112,7 +111,7 @@ Berikut adalah hasil atau tampilan dalam membuat form dalam php dengan variable 
 
 ## 8). Operator
 ![operator](img/9.png)
-Membuat OPERATOR dalam php seperti contoh hasil tampilan di atas beserta code nya.
+<br>Membuat OPERATOR dalam php seperti contoh hasil tampilan di atas beserta code nya.</br>
 
 ### Contoh Coding
 ```php
@@ -138,7 +137,7 @@ Membuat OPERATOR dalam php seperti contoh hasil tampilan di atas beserta code ny
 
 ## 9). Kondisi IF
 ![kondisi_if](img/10.png)
-Pengondisian IF ELSE seperti hasil tampilan dan code digambar atas
+<br>Pengondisian IF ELSE seperti hasil tampilan dan code digambar atas</br>
 
 ### Contoh Coding
 ```php
@@ -168,7 +167,7 @@ Pengondisian IF ELSE seperti hasil tampilan dan code digambar atas
 
 ## 10). Kondisi Switch
 ![kondisi_switch](img/11.png)
-Contoh penggunaan pengondisian SWICTH CASE dengan Break seperti contoh hasil diatas beserta code.
+<br>Contoh penggunaan pengondisian SWICTH CASE dengan Break seperti contoh hasil diatas beserta code.</br>
 
 ### Contoh Coding
 ```php
@@ -194,7 +193,7 @@ Contoh penggunaan pengondisian SWICTH CASE dengan Break seperti contoh hasil dia
 
 ## 11). Perulangan For
 ![perulangan_for](img/12.png)
-Menggunakan PERULANGAN FOR seperti hasil dan code di atas
+<br>Menggunakan PERULANGAN FOR seperti hasil dan code di atas</br>
 
 ### Contoh Coding
 ```php
@@ -224,7 +223,7 @@ Menggunakan PERULANGAN FOR seperti hasil dan code di atas
 
 ## 12). Perulangan While
 ![while](img/13.png)
-Menggunakan PERULANGAN WHILE seperti hasil gambar dan code di atas.
+<br>Menggunakan PERULANGAN WHILE seperti hasil gambar dan code di atas.</br>
 
 ```php
  <h2>Perulangan While</h2>
@@ -240,7 +239,7 @@ Menggunakan PERULANGAN WHILE seperti hasil gambar dan code di atas.
 
 ## 13). Perulangan Dowhile
 ![dowhile](img/14.png)
-Menggunakan PERULANGAN DOWHILE seperti hasil gambar di atas yg beserta code php nya.
+<br>Menggunakan PERULANGAN DOWHILE seperti hasil gambar di atas yg beserta code php nya.</br>
 
 ### Contoh Coding
 ```php
@@ -256,7 +255,7 @@ Menggunakan PERULANGAN DOWHILE seperti hasil gambar di atas yg beserta code php 
 ```
 
 # Pertanyaan & Tugas
-Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama , tanggal lahir dan pekerjaan . Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir . Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
+<br>Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama , tanggal lahir dan pekerjaan . Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir . Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.</br>
 
 ![tugas](img/15.png)
 
