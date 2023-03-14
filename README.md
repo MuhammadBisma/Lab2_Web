@@ -1,6 +1,6 @@
-|  Ziddan Makarim  |    312010063    |
+|  Muhammad Bisma  |    312010443    |
 |------------------|-----------------|
-|  TI.20 A.1       | Pemrograman Web |
+|  TI.21.A.1       | Pemrograman Web |
 
 ## Pertemuan 9 Lab7Web
 Dalam pertemuan ini kita akan mempelajari PHP Dasar dengan beberapa program code PHP nya.
