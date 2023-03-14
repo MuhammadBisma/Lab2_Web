@@ -17,10 +17,10 @@ Dalam pertemuan ini kita akan mempelajari PHP Dasar dengan beberapa program code
 
 ## 3). Memulai PHP 
 ![php](img/3.png)
-Buat folder lab7_php_dasar pada root directory web server (c:xampp/htdocs)<br>
+<br>Buat folder lab7_php_dasar pada root directory web server (c:xampp/htdocs)</br>
 
-<br>Kemudian akses directory pada web server dengan mengakses URL : http://localhost/Lab7Web/lab2_php_dasar/</br>
 ![hasil](img/4.png)
+<br>Kemudian akses directory pada web server dengan mengakses URL : http://localhost/Lab7Web/lab2_php_dasar/</br>
 
 ## 4). PHP Dasar
 ![dasar](img/5.png) 
@@ -60,7 +60,7 @@ Berikut hasil run PHP Dasar<br>
 
 ## 6). Predefine $_GET
 ![predefine](img/7.png)
-<br>Buat file baru dalam directory lab7_php_dasar dengan nama filenya adalah latihan2.php dan untuk mengaksesnya menggunakan URL : http://localhost/Lab7Web/lab7_php_dasar/latihan2.php?nama=%20Bisma</br>
+<br>Buat file baru dalam directory lab7_php_dasar dengan nama filenya adalah latihan2.php dan untuk mengaksesnya menggunakan URL : http://localhost/Lab2_Web/lab2_php_dasar/lat2.php?nama=%20Bisma</br>
 
 ### Contoh Coding
 ```php
@@ -84,7 +84,7 @@ Berikut hasil run PHP Dasar<br>
 
 ## 7). Membuat Form Input
 ![form](img/8.png)
-<br>Buat File baru dengan nama latihan3.php dalam directory folder lab7_php_dasar 
+<br>Buat File baru dengan nama lat3.php dalam directory folder lab2_php_dasar 
 Berikut adalah hasil atau tampilan dalam membuat form dalam php dengan variable $_POST</br> 
 
 ### Contoh Coding
