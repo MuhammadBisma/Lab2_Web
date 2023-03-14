@@ -17,7 +17,7 @@ Dalam pertemuan ini kita akan mempelajari PHP Dasar dengan beberapa program code
 
 ## 3). Memulai PHP 
 ![php](img/3.png)
-<br>Buat folder lab7_php_dasar pada root directory web server (c:xampp/htdocs)</br>
+<br>Buat folder lab2_php_dasar pada root directory web server (c:xampp/htdocs)</br>
 
 ![hasil](img/4.png)
 <br>Kemudian akses directory pada web server dengan mengakses URL : http://localhost/Lab7Web/lab2_php_dasar/</br>
