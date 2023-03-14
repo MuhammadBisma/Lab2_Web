@@ -60,7 +60,7 @@ Berikut hasil run variabel pada program di PHP
 
 ## 6). Predefine $_GET
 ![predefine](img/7.png)
-Buat file baru dalam directory lab7_php_dasar dengan nama filenya adalah latihan2.php dan untuk mengaksesnya menggunakan URL : http://localhost/Lab7Web/lab7_php_dasar/latihan2.php?nama=%20ziddan
+Buat file baru dalam directory lab7_php_dasar dengan nama filenya adalah latihan2.php dan untuk mengaksesnya menggunakan URL : http://localhost/Lab7Web/lab7_php_dasar/latihan2.php?nama=%20Bisma
 
 ### Contoh Coding
 ```php
