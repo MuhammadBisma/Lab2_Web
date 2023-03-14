@@ -2,7 +2,7 @@
 |------------------|-----------------|
 |  TI.21.A.1       | Pemrograman Web |
 
-## Pertemuan 9 Lab7Web
+## Pertemuan 2 Lab2_Web
 Dalam pertemuan ini kita akan mempelajari PHP Dasar dengan beberapa program code PHP nya.
 
 # PHP Dasar
